@@ -5,4 +5,4 @@ print(result.upper())
 length = len(result)
 print("Length is :", length)
 name3 = "prajwal kiran"
-print(name3.split(" ",-2))
+print(name3.split(" ",-2))      
